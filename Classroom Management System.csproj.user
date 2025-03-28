@@ -1,0 +1,155 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="AdminFinalCreateClass.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminFinalCreateSubject.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminHomeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdmitCreateForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Announcement.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Calendar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CalendarAddEvent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CalendarUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Classes.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="classMembers.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="CreateSubject.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Credentials.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="CredentialsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Custom\AddNoteButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Custom\CustomButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Custom\CustomTextBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Custom\FinalCustomButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Custom\GreyTransparentPanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Custom\MenuBar.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Custom\PanelDesign.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Custom\RoundButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="ExitPopup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ExtraInformation.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="FinalAdminHomeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FinalAnnouncement.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="FinalHomeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FinalLoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FinalNoteUpload.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="FinalSection.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="FinalSubjectNoteSearch.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="FinalSubjectNoteView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="FinalSubjects.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="FinalUpload.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Help.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="HomeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LoginHome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Notes.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="PersonalInfoCredentials.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Profile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="searchResultFormat.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Subjects.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UploadNote.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControl1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControl2.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControl3.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="VerificationCredentials.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+</Project>
